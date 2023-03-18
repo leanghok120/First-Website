@@ -1,0 +1,30 @@
+body {
+    background-color: dimgray;
+}
+
+#about_me_header {
+    color: rgb(145, 237, 253);
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 24px;
+}
+
+#about_me_header h1 {
+    border-style: dashed;
+    border-color: rgb(142, 232, 255);
+    border-width: 2px;
+}
+
+#go_back a {
+    color: rgb(138, 222, 255);
+    margin-left: 350px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+}
+
+#about_me_body {
+    color: whitesmoke;
+    text-align: left;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 24px;
+}
