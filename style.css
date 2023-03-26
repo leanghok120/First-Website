@@ -19,3 +19,7 @@ body {
   gap: 30px;
   justify-content: center;
 }
+
+.listItem {
+  list-style-type: none;
+}
