@@ -9,15 +9,13 @@ body {
   font-size: 24px;
 }
 
-#homepage_header h1 {
-  border-style: dashed;
-  border-color: rgb(142, 232, 255);
-  border-width: 2px;
-}
-
-#about_me_page a {
-  color: rgb(138, 222, 255);
+.listContainer {
+  color: rgb(145, 237, 253);
   text-align: center;
   font-family: Arial, Helvetica, sans-serif;
-  font-size: 25px;
+  font-size: 24px;
+  display: flex;
+  flex-direction: row;
+  gap: 30px;
+  justify-content: center;
 }
