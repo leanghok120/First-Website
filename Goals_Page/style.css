@@ -1,0 +1,20 @@
+#Goals_header {
+    color: rgb(145, 237, 253);
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 24px;
+}
+
+#go_back a {
+    color: rgb(138, 222, 255);
+    margin-left: 490px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+}
+
+#about_me_body {
+    color: whitesmoke;
+    text-align: left;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 24px;
+}
